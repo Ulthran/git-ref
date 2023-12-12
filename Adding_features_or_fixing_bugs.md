@@ -72,7 +72,7 @@ Notes
 
 ## Without write access
 
-
+If the repo you want to make changes to exists in someone else's org/account that you don't have access to, you'll have to make a fork, make changes there, then make a PR to merge your changes into their repo. You can make a fork from the main repo page (there should be a button in the top right) and then checkout the repo under your account to make changes.
 
 ## Actual simplest possible way
 
