@@ -31,8 +31,8 @@ Notes:
 - On the issue page (https://github.com/org/repo/issues/1) there should be sections on the right Assignees, Labels, Projects, Milestone, Development, Notifications. Under Development, use the Create a branch button to make a new branch.
 - Get on that branch on your machine:
 
-(If you haven't cloned the repo yet)
 ```bash
+***If you haven't cloned the repo yet***
 git clone git@github.com:org/repo.git
 cd repo/
 ```
